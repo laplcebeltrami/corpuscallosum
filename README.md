@@ -1,4 +1,4 @@
-## 2D MRI of corpus callosum of human brain
+## 2D MRI of probability map of corpus callosum segmentation of human brain
 
 The data was published in study 
 
